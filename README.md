@@ -18,14 +18,14 @@ Virtual Drag and Drop is an interactive project built using OpenCV and MediaPipe
 
 ## Installation & Setup : 
 
-1️) Clone the Repository
+1️)Clone the Repository
 git clone https://github.com/Raanesh01/Virtual-Drag-and-Drop.git
 cd virtual-drag-drop
 
-2) Install Dependencies
+2)Install Dependencies
 pip install opencv-python mediapipe numpy
 
-3) Run the Script
+3)Run the Script
 python "virtual drag and drop.py"
 
 ##  How It Works :
