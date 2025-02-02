@@ -25,7 +25,7 @@ cd virtual-drag-drop
 ### 2) Install Dependencies
 pip install opencv-python mediapipe numpy
 
-### 3)Run the Script
+### 3) Run the Script
 python "virtual drag and drop.py"
 
 ##  How It Works :
